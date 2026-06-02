@@ -1,0 +1,13 @@
+name = "bsc-v2"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-05-22"
+compatibility_flags = ["nodejs_compat"]
+
+[[hyperdrive]]
+binding = "HYPERDRIVE"
+# Replace this with the id returned by `wrangler hyperdrive create`.
+id = "00000000-0000-0000-0000-000000000000"
+
+[vars]
+SUPABASE_URL = "https://your-project.supabase.co"
+SUPABASE_PUBLISHABLE_KEY = "sb_publishable_UuRkEk-kbqDUNt_vbVLc1g_VnuOl0by"

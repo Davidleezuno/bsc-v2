@@ -1,0 +1,5 @@
+SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_PUBLISHABLE_KEY=sb_publishable_UuRkEk-kbqDUNt_vbVLc1g_VnuOl0by
+SUPABASE_SECRET_KEY=replace-with-your-full-secret-key
+# Used as the local Hyperdrive connection by `npm run dev`.
+DATABASE_URL="postgresql://postgres.thssgnhgsshzyejjhvtd:[YOUR-PASSWORD]@aws-1-ap-southeast-1.pooler.supabase.com:6543/postgres?sslmode=require"
