@@ -7,7 +7,3 @@ compatibility_flags = ["nodejs_compat"]
 binding = "HYPERDRIVE"
 # Replace this with the id returned by `wrangler hyperdrive create`.
 id = "9944fb40c5704b66abf6f5070ea5bb71"
-
-[vars]
-SUPABASE_URL = "https://your-project.supabase.co"
-SUPABASE_PUBLISHABLE_KEY = "sb_publishable_UuRkEk-kbqDUNt_vbVLc1g_VnuOl0by"
